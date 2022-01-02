@@ -50,6 +50,7 @@ set from both wave and spiral sketches
 After fine tuning, the model nearly reaches 88% accuracy on the validation
 set. And now you are all set to use this model to predict if our patient has
 Parkinson’s or not.
+
 ![Screenshot (16)](https://user-images.githubusercontent.com/46704901/147869474-5184dd70-3b34-4d08-bf30-edddfcffccab.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/46704901/147869477-f99bcded-9317-48b9-983e-0608de2a7852.png)
 
