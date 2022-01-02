@@ -22,9 +22,6 @@ the tablet and an ink pen was used to sketch the spiral and the wave. Figure
 process.
 
 ![download (2)](https://user-images.githubusercontent.com/46704901/147869329-2d9a26c0-6ed3-4559-98e4-c37860ea69aa.png)
-![download (4)](https://user-images.githubusercontent.com/46704901/147869324-a6ef380c-a159-4d7e-a4f1-38f5ebc27b86.png)
-![parkinimage](https://user-images.githubusercontent.com/46704901/147869312-af022ced-7099-47ff-a65b-727a3a19f555.png)
-![download (3)](https://user-images.githubusercontent.com/46704901/147869322-d4c393ec-a8b3-4c14-848a-83e5b3fda4d8.png)
 
 ### Data Pre-processing and Augmentation
 The images used in the study were subjected to resizing and histogram
@@ -43,7 +40,8 @@ in the dataset image augmentations were performed. Table 1 below show
 the different image augmentation parameters which were applied to the
 training data for wave and spiral sketched respectively. Moreover, Figure 3
 shows the histogram equalized and augmented images of the training data
-set from both wave and spiral sketches
+set from both wave and spiral sketches.
+
 ![Screenshot (15)](https://user-images.githubusercontent.com/46704901/147869367-5bbbfc31-5aa3-47c0-b8aa-5b98c4960ae3.png)
 
 ### EXPERIMENT AND RESULT
@@ -76,3 +74,4 @@ selection algorithm was used.
 
 ### Final Experiment Report
 ![Screenshot (18)](https://user-images.githubusercontent.com/46704901/147869569-a465ad1f-ffdc-460d-ba13-6c196b8df2cc.png)
+![download (3)](https://user-images.githubusercontent.com/46704901/147869322-d4c393ec-a8b3-4c14-848a-83e5b3fda4d8.png)
