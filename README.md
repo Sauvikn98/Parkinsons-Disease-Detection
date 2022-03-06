@@ -1,5 +1,4 @@
 ### Parkinsons Disease Detection using Speech and Image Data
-Deep Learning and Natural Language Processing Models based on Parkinson's Disease Detection
 
 ### Image
 For the Image Part we have used a method of Deep Learning and computer
